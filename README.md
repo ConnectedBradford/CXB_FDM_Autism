@@ -18,7 +18,7 @@ CB_FDM_Autism - build date 06/06/2023
 
 
 # Autism 
-The Autism FDM is made up of 1 table (summarised below and data dictionaries linked) from routinely collected data from ABradford District Care Trust for 5,106 individuals and their routinely collected clinical data. 
+The Autism FDM is made up of 1 table (summarised below and data dictionaries linked) from routinely collected data from Bradford District Care Trust for 5,106 individuals and their routinely collected clinical data. 
 
 The dates relevant for the latest build are 2015-02-27	to	2022-05-15
 
